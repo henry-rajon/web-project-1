@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Open+Sans:wght@400;500;600;700&family=Poppins&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0;
+}
+.top-banner{
+    display: flex;
+    background: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 45px;
+    padding-top: 100px;
+}
+span{
+    color: orange;
+}
+h3{
+    font-size: 25px;
+    font-weight: 700;
+}
+p{
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+.btn{
+    text-decoration: none;
+    color: #fff;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 20px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 30px;
+}
+img{
+    width: 70%;
+    margin-top: 20px;
+}
